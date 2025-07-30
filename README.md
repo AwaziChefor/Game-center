@@ -34,4 +34,4 @@ The program displays a menu where you can choose which game to play. Each game i
 
 1. 📥 **Download or Clone this Repo**
    ```bash
-   git clone https://github.com/your-username/game-center.git
+   git clone https://github.com/AwaziChefor/game-center.git
