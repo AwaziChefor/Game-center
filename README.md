@@ -9,9 +9,9 @@ Welcome to **Game Center**, a simple and fun C++ application containing several 
 This console-based Game Center includes:
 
 1. 🎯 **Guess the Number** – Can you find the hidden number?
-2. ✖️ **Multiplication Game** – Check your math reflexes.
+2. ✖️ **Simple Jackpot Game** – Try but you can't win 
 3. 🔢 **Even or Odd** – Simple but tricky!
-4. 🆚 **Number Comparison** – Spot the bigger number.
+4. 🆚 **Rock 🪨 Paper 📜 Scissors ✂️ Game** – Human va Computer
 
 ---
 
